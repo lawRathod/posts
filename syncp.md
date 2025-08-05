@@ -1,3 +1,11 @@
+---
+title: "SyncP - Synchronized Media Player"
+date: "2021-09-10"
+description: "A Python-based synchronized media player using mpv backend for playing local files across multiple hosts and clients"
+tags: ["python", "mpv", "networking", "media-player", "synchronization"]
+published: true
+---
+
 # syncP
 
 ## Brief

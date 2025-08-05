@@ -1,3 +1,11 @@
+---
+title: "DNDR - Flutter Reader App"
+date: "2020-07-15"
+description: "Building my first Flutter mobile application - a reader app with profiles and custom settings"
+tags: ["flutter", "dart", "mobile-dev", "cross-platform"]
+published: true
+---
+
 # dndr
 
 📦
